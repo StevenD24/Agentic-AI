@@ -2,7 +2,7 @@
 
 This repository is for exploring agentic AI frameworks, tools, and techniques, with an emphasis on practical skills and real-world applications.
 
-![MCP Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F840e868d-2c83-4b1b-a881-df1da6c6e332_1309x1536.gif)
+![image](https://github.com/user-attachments/assets/a9eb8672-0939-47aa-b653-a71eab2aea6f)
 
 *Image source: ByteByteGo*<br>
 *Course materials inspired by Ed Donner*
