@@ -1,6 +1,6 @@
 # Agentic AI Experiments
 
-This repository is for exploring agentic AI frameworks, tools, and techniques, with an emphasis on practical skills and real-world applications.
+This repository explores agentic AI frameworks, tools, and techniques for practice and use in my real-world professional projects.
 
 ![image](https://github.com/user-attachments/assets/a9eb8672-0939-47aa-b653-a71eab2aea6f)
 
