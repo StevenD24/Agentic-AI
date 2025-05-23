@@ -1,6 +1,11 @@
 # Agentic AI Experiments
 
-This repository is dedicated to deepening my understanding of agentic AI frameworks, tools, and techniques, with a focus on developing practical skills and solutions that can be directly applied to real-world environments and challenges.
+This repository is for exploring agentic AI frameworks, tools, and techniques, with an emphasis on practical skills and real-world applications.
+
+![image](https://github.com/user-attachments/assets/ae50995d-3854-419f-bc07-38b5267b143c)
+
+*Image source: ByteByteGo*
+*Course materials inspired by Ed Donner*
 
 ## Focus Areas
 
