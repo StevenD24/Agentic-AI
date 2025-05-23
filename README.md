@@ -4,7 +4,7 @@ This repository is for exploring agentic AI frameworks, tools, and techniques, w
 
 ![image](https://github.com/user-attachments/assets/ae50995d-3854-419f-bc07-38b5267b143c)
 
-*Image source: ByteByteGo*
+*Image source: ByteByteGo*\n
 *Course materials inspired by Ed Donner*
 
 ## Focus Areas
