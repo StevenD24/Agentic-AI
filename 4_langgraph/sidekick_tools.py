@@ -37,7 +37,12 @@ def get_file_tools():
 
 
 async def other_tools():
-    push_tool = Tool(name="send_push_notification", func=push, description="Use this tool when you want to send a push notification")
+    push_tool = Tool(
+        name="send_push_notification", 
+        func=push, 
+        description="Use this tool when you want to send a push notification"
+    )
+    
     file_tools = get_file_tools()
 
     tool_search =Tool(

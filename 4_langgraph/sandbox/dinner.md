@@ -1,24 +1,27 @@
-# Dinner Report: Le Bernardin
+# Shokunin Japanese Restaurant
 
-## Restaurant Overview
-- **Name**: Le Bernardin
-- **Address**: 155 W 51st St, New York, NY 10019
-- **Phone**: (212) 554-1515
-- **Website**: [le-bernardin.com](http://le-bernardin.com)
+### Address
+2016 4 St SW, Calgary, AB T2S 1W3, Canada
 
-## Cuisine
-Le Bernardin specializes in refined seafood dishes, crafted with the utmost respect for the ingredients. The menu includes a variety of seafood preparations, with an emphasis on freshness and simplicity.
+### Phone
++1 403-229-3444
 
-## Menu Highlights
-- **Tuna Tartare**: Diced raw tuna, served with toasted sesame and avocado.
-- **Wild Salmon**: Lightly cooked, served with a warm ginger-soy emulsion and bok choy.
-- **Poached Lobster**: Accompanied by truffle butter and a delicate sauce.
-- **Chocolate Soufflé**: A classic dessert, rich and airy.
+### Overview
+Shokunin is an authentic Japanese gastropub in Calgary, renowned for its blend of traditional Japanese cuisine and local Canadian ingredients. As Calgary's first yakitori restaurant, Shokunin offers a unique and immersive dining experience centered around expertly grilled dishes served in a stylish, modern setting.
 
-## Ambiance
-The atmosphere at Le Bernardin is elegant and serene, characterized by minimalist decor and a focus on the dining experience.
+### Menu Highlights
+Some of the best items to consider at Shokunin include:
+- **Yakitori Skewers**: A selection of expertly grilled chicken and vegetables, perfect for sharing. The yakitori is known for its rich flavors and is a standout favorite.
+- **Miso Butter Grilled Cabbage**: A unique and flavorful side that complements the grilled meats wonderfully.
+- **Shokunin Tori Ramen**: This popular dish features a rich, paitan-style broth made exclusively from free-range chicken bones.
+- **Nigiri and Maki**: The sushi offerings are praised for their freshness and quality, including options like the **Crispy Salmon Roll.**
+- **Omakase**: An exclusive tasting menu that showcases the chef's best creations of the day.
 
-## Summary of Reviews
-Le Bernardin has consistently received rave reviews for its exceptional cuisine and impeccable service. It is a three-Michelin star restaurant, recognized as one of the best seafood restaurants not only in New York but also in the world. Diners emphasize the harmonious flavors and the artistry of the dishes, making it a top choice for special occasions.
+### Summary of Reviews
+Shokunin receives consistently high praise for its:
+- **Quality of Food**: Guests often highlight the melt-in-your-mouth quality of the sashimi and the innovative presentation of dishes.
+- **Grilling Expertise**: The use of a traditional Japanese Robata grill enhances the flavors of various meats and vegetables.
+- **Cozy Atmosphere**: The open-concept kitchen and intimate dining space create a comfortable and inviting environment.
+- **Service**: Many reviews commend the friendly, knowledgeable staff who provide attentive service, contributing to an enjoyable dining experience.
 
-**In conclusion**, Le Bernardin represents the pinnacle of fine dining, offering diners an unforgettable experience centered around seafood excellence.
+Most patrons leave feeling satisfied, noting that Shokunin is a must-visit for anyone looking to experience high-quality Japanese cuisine in Calgary.
